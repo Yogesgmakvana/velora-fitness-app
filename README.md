@@ -22,9 +22,9 @@
       <td align="center"><b>Steps Detailed Stats</b></td>
     </tr>
     <tr>
-      <td><img src="![img.png](img.png)![img_2.png](img_2.png) ![img_3.png](img_3.png)" width="240" alt="Achievements Modal" placeholder="Achievements Screen Screenshot"/></td>
-      <td><img src="![img_1.png](img_1.png)![img_4.png](img_4.png)" width="240" alt="Home Dashboard" placeholder="Home Dashboard Screenshot"/></td>
-      <td><img src="![img_5.png](img_5.png)![img_6.png](img_6.png)" width="240" alt="Steps Analytics" placeholder="Steps Detailed Screen Screenshot"/></td>
+      ![img.png](img.png)![img_2.png](img_2.png) ![img_3.png](img_3.png)
+      ![img_1.png](img_1.png)![img_4.png](img_4.png)
+      ![img_5.png](img_5.png)![img_6.png](img_6.png)
     </tr>
   </table>
 </p>
