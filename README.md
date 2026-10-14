@@ -14,7 +14,8 @@
 
 ## 📱 Application Screenshots & Visual Design
 
-![Screenshot 2026-10-13 140742.png](../../Pictures/Screenshots/Screenshot%202026-10-13%20140742.png)
+<img width="1033" height="743" alt="Screenshot 2026-10-13 140742" src="https://github.com/user-attachments/assets/57944d35-d5b8-412d-bb44-1b1aa8bba7c2" />
+
 
 ---
 
