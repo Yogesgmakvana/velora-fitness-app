@@ -14,18 +14,7 @@
 
 ## 📱 Application Screenshots & Visual Design
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Achievements Modal</b></td>
-      <td align="center"><b>Home Dashboard</b></td>
-      <td align="center"><b>Steps Detailed Stats</b></td>
-    </tr>
-    <tr>
-      
-    </tr>
-  </table>
-</p>
+![Screenshot 2026-10-13 140742.png](../../Pictures/Screenshots/Screenshot%202026-10-13%20140742.png)
 
 ---
 
