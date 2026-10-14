@@ -22,9 +22,7 @@
       <td align="center"><b>Steps Detailed Stats</b></td>
     </tr>
     <tr>
-      ![img.png](img.png)![img_2.png](img_2.png) ![img_3.png](img_3.png)
-      ![img_1.png](img_1.png)![img_4.png](img_4.png)
-      ![img_5.png](img_5.png)![img_6.png](img_6.png)
+      ![Screenshot 2026-10-13 140742.png](../../Pictures/Screenshots/Screenshot%202026-10-13%20140742.png)
     </tr>
   </table>
 </p>
