@@ -1,6 +1,10 @@
 # ⚡ VELORA — Premium Fitness & Life Tracker
 
 <p align="center">
+  <img src="assets/banner.png" alt="VELORA Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/GetX-4.6.6-brightgreen?style=for-the-badge&logo=flutter" alt="GetX" />
@@ -14,8 +18,9 @@
 
 ## 📱 Application Screenshots & Visual Design
 
-![Uploading Screenshot 2026-10-13 140742.png…]()
-
+<p align="center">
+  <img src="assets/banner.png" alt="Application Overview Banner" width="100%" />
+</p>
 
 ---
 
