@@ -14,7 +14,8 @@
 
 ## 📱 Application Screenshots & Visual Design
 
-![Screenshot 2026-10-13 140742.png](../../Pictures/Screenshots/Screenshot%202026-10-13%20140742.png)
+![Uploading Screenshot 2026-10-13 140742.png…]()
+
 
 ---
 
